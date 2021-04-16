@@ -1,0 +1,5 @@
+D:\Works\Sample\SampleConsole\bin\Debug\SampleConsole.exe
+D:\Works\Sample\SampleConsole\bin\Debug\SampleConsole.pdb
+D:\Works\Sample\SampleConsole\obj\Debug\SampleConsole.csproj.CoreCompileInputs.cache
+D:\Works\Sample\SampleConsole\obj\Debug\SampleConsole.exe
+D:\Works\Sample\SampleConsole\obj\Debug\SampleConsole.pdb
